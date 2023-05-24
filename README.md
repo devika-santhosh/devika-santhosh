@@ -1,4 +1,5 @@
-![logo](https://github.com/Devika-Santhosh/My-Space/blob/main/Git.background.png)
+![Git background](https://github.com/devika-santhosh/devika-santhosh/assets/125188753/27b10774-d69b-480c-bcbe-dab9dcc9a61e)
+
 <h1 align="center">Hi 👋, I'm Devika Santhosh</h1>
 <h3 align="center">As a passionate graduate in mathematics, my primary focus lies in applied mathematics, where I seek to explore its practical applications with fervor and enthusiasm.</h3>
 
