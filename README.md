@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Masters Project**
+- 🔭 I completed my Master's in Math from **IISER Thiruvananthapuram**
 
 - 🌱 I’m currently learning **Programming Techniques**
 
