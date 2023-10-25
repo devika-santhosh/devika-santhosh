@@ -7,7 +7,7 @@
 
 - 🔭 I completed my Master's in Math from **IISER Thiruvananthapuram**
 
-- 🌱 I’m currently learning **Programming Techniques**
+- 🌱 I’m currently learning **Machine Learning and Data Science**
 
 - 💬 Ask me about **interests and experience**
 
