@@ -7,9 +7,9 @@
 
 - 🔭 I completed my Master's in Math from **IISER Thiruvananthapuram**
 
-- 🌱 I am presently engaged in the field of **Data Analytics and Predictions**. 
+- 🌱 I am presently engaged in the field of **"Data Analytics and Predictions"**. 
 
-- ⚡Have hands-on Experience in Data Science that keeps me on the ** Cutting Edge**
+- ⚡Have hands-on Experience in Data Science that keeps me on the **Cutting Edge**
 
 - 💬 Ask me about **interests and experience**
 
